@@ -1,0 +1,115 @@
+*{
+box-sizing: border-box;    
+padding: 0;
+margin: 0;
+font-family: sans-serif, Arial, Helvetica;
+}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+  
+
+  }
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+
+
+nav {
+  margin-bottom: 10px;
+  height: 62px;
+}
+
+body {
+  padding: 10px 20px 0px 20px;
+}
+
+#Info-Basic{
+  margin-bottom: 20px;
+
+}
+
+#card_info_basic{
+  background-color: rgb(17, 138, 17);
+  padding: 10px 5px 20px 5px;
+}
+
+.bk_color_cards_inf_basic{
+  background-color: rgb(17, 138, 17);
+
+}
+
+.img_style{
+  padding-top: 20px;
+  width: 170px;
+  height: 220px;
+}
+
+ #experiencia {
+    margin-bottom: 20px; 
+    
+}
+
+
+
+#card_exp{
+  background-color: cornflowerblue;
+  height: 290px;
+  padding: 10px 5px 20px 5px;
+
+}
+
+.bk_color_cards_exp{
+  background-color: rgb(100, 160, 237);
+
+}
+
+
+.font_white{
+  color: whitesmoke;
+}
+
+.font_blue{
+  color:blue;
+}
+
+.habilidades_estudios{
+  background-color: orangered ;
+}
+
+#info-extendida{
+  margin-top: 50px;
+  display: none;
+}
+
+#expec_asp{
+  margin-bottom: 30px;
+}
+
+.form_foot{
+  margin-top: 40px;
+  margin-bottom: 30px;
+  border-radius: solid 1px black;
+}
+
+#emailHelp{
+  font-style: italic;
+  color: rgb(170, 170, 170);
+}
+
+#copyright{
+  font-style: italic;
+  color: rgb(170, 170, 170);
+}
